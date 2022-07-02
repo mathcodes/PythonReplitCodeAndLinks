@@ -41,6 +41,13 @@ A repo to house some replit projects where I write lots of my python.
     <td class="tg-0lax">Rock Paper Scissors</td>
     <td class="tg-7h26"><a href="https://replit.com/@fullstack11235/RockPaperScissors#main.py" target="_blank" rel="noopener noreferrer">🌏</a></td>
     <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/RockPaperScissors">📂</a></td>
+
+  </tr>
+    <tr>
+    <td class="tg-0lax">Custom Flash Card Python App</td>
+    <td class="tg-7h26"><a href="https://replit.com/@fullstack11235/CustomFlashCardPythonApp?v=1" target="_blank" rel="noopener noreferrer">🌏</a></td>
+    <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/CustomFlashCardPythonApp">📂</a></td>
+
   </tr>
 </tbody>
 </table>
