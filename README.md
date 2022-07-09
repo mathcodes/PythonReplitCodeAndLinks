@@ -52,5 +52,10 @@ A repo to house some replit projects where I write lots of my python.
     <td class="tg-7h26"><a href="https://replit.com/@fullstack11235/lifeinweeksSTART?v=1" target="_blank" rel="noopener noreferrer">🌏</a></td>
     <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/TimeUntil100">📂</a></td>
   </tr>
+  <tr>
+    <td class="tg-0lax">Pizza Order Activity</td>
+    <td class="tg-7h26"><a href="https://replit.com/@fullstack11235/pizza-order-START" target="_blank" rel="noopener noreferrer">🌏</a></td>
+    <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/PizzaOrder">📂</a></td>
+  </tr>
 </tbody>
 </table>
