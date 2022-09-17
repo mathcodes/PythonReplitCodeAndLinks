@@ -18,6 +18,11 @@ A repo to house some replit projects where I write lots of my python.
     <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/SudokuSolver" target="_blank" rel="noopener noreferrer">📂</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax">US States Game</td>
+    <td class="tg-0lax"><a href="https://replit.com/@fullstack11235/states?v=1" target="_blank" rel="noopener noreferrer">🌎</td>
+    <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/States" target="_blank" rel="noopener noreferrer">📂</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Can I Ride?</td>
     <td class="tg-0lax"><a href="https://replit.com/@fullstack11235/Can-I-Ride-START#main.py" target="_blank" rel="noopener noreferrer">🌏</a></td>
     <td class="tg-0lax"><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks/tree/main/CanIRide">📂</a></td>
